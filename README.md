@@ -1,4 +1,4 @@
-This is (most of) the python code used to generate figures and analysis in Young et al 2022, ApJ 933, 90.  The Bayesian analysis of CO isotopic line ratios using RADEX is found in my other repository [https://github.com/LisaYoungUIUC/mcmc_radex](url).
+This is (most of) the python code used to generate figures and analysis in Young et al 2022, ApJ 933, 90.  The Bayesian analysis of CO isotopic line ratios using RADEX is found in my other repository mcmc_radex.
 
 @ARTICLE{2022ApJ...933...90Y,
        author = {{Young}, Lisa M. and {Meier}, David S. and {Crocker}, Alison and {Davis}, Timothy A. and {Topal}, Sel{\c{c}}uk},
